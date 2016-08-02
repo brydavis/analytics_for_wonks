@@ -9,7 +9,7 @@ The purpose of this repository is to provide reusable examples for basic data pr
 
 ###	Analyzing
 - *I'm done processing data, how do I analyse it?*
-- 
+
 ###	Visualizing
 - *How do I quickly visualize my data?*
 
