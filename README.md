@@ -14,4 +14,4 @@ The purpose of this repository is to provide reusable examples for basic data pr
 - *How do I quickly visualize my data?*
 
 ###	Exporting
-- *Is there a way to export my data or a report to a Excel or CSV file?*
+- *Is there a way to export my data or a report to a `.xlsx` or `.csv` file?*
