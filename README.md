@@ -15,6 +15,7 @@ The purpose of this repository is to provide reusable examples for basic data pr
 
 ###	Visualizing
 - *How do I quickly visualize my data?*
+- *Is it possible to integrate with other technologies (e.g. Tableau) to visualize my data?*
 
 ###	Exporting
 - *Is there a way to export my data or a report to a `.xlsx` or `.csv` file?*
