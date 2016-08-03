@@ -2,7 +2,9 @@
 
 Here is some information not covered elsewhere in the repository.
 
-
+### General
+- [Stack Overflow](http://stackoverflow.com/)
+  - Programmer-based Q&A platform great for searching
 
 ### R
 - [Quick R](http://www.statmethods.net/)
