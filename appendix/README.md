@@ -7,6 +7,7 @@ Here is some information not covered elsewhere in the repository.
   - Programmer-based Q&A platform great for searching
 
 ### R
+- [R Resources @ UCLA IDRE](http://www.ats.ucla.edu/stat/r/)
 - [Quick R](http://www.statmethods.net/)
 
 ### Python
