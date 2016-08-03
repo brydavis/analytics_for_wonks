@@ -7,6 +7,8 @@ The purpose of this repository is to provide reusable examples for basic data pr
 
 ###	Processing
 - *How do I clean / manipulate data before performing my analysis?*
+- *How do I match / merge two (or more) datasets?*
+
 
 ###	Analyzing
 - *I'm done processing data, how do I analyse it?*
