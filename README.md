@@ -1,10 +1,6 @@
 # Data Basics for Policy Wonks
 
-The purpose of this repository is to provide reusable examples for basic data processing (cleaning and manipulation) and analysis with the *policy analyst* in mind.  Examples will be grouped by task; within each task group will by examples using Python (`.py`) and R (`.R`).  Subsequent tasks build on examples in previous tasks (e.g. *scripts for analyzing data build on scripts for uploading and processing said data*). 
-
-
-
-
+The purpose of this repository is to provide reusable examples for basic data processing (cleaning and manipulation) and analysis with the *policy analyst* in mind.  Examples will be grouped by task; within each task group will by examples using Python (`.py`) and R (`.R`).  Subsequent tasks build on examples in previous tasks (e.g. *scripts for analyzing data build on scripts for uploading and processing said data*). If you haven't yet, please download and install the [Anaconda](https://www.continuum.io/downloads) distribution of Python; once installed, don't forget to install [R](https://www.continuum.io/conda-for-r) by running `conda install -c r r` in command prompt or the terminal.
 
 
 ###	[Uploading](https://github.com/brydavis/data_basics_for_wonks/tree/master/ch1_uploading#uploading-data)
