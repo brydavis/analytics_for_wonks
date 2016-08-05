@@ -7,7 +7,7 @@ The purpose of this repository is to provide reusable examples for basic data pr
 
 
 
-###	[Uploading](https://github.com/brydavis/data_basics_for_wonks/tree/master/ch1_uploading)
+###	[Uploading](https://github.com/brydavis/data_basics_for_wonks/tree/master/ch1_uploading#uploading-data)
 - *How do I upload / import data from a file (`.xlsx`, `.csv`, `.dta`...)?*
 - *How do I pull data directly from a database?*
 
