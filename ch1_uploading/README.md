@@ -3,8 +3,8 @@
 So, you have some data in a __file__ (e.g. `.csv`,`.xlsx`,`.dta`) and or in a __database__ somewhere.  This section will describe how you can __access the data__ based on where the data is stored.
 
 Here are links to the specific parts of this section:
-  <a href="#files">Reading Files</a>
-  <a href="#dbs">Querying Databases</a>
+- <a href="#files">Reading Files</a>
+- <a href="#dbs">Querying Databases</a>
 
 
 
@@ -21,7 +21,7 @@ Suspendisse venenatis odio lectus, et auctor diam tincidunt ac. Donec nec justo 
 Nullam efficitur lacus ut erat fermentum, vitae imperdiet diam finibus. Suspendisse ultricies, tellus sed consectetur finibus, est dui blandit ligula, nec posuere ex leo vel libero. Proin aliquet sapien massa, non mattis mi facilisis nec. Cras pulvinar, sem vitae placerat ornare, lectus neque elementum tortor, id sollicitudin sem orci ac purus. Maecenas porta erat ex, a dignissim quam euismod a. Donec hendrerit elit sit amet orci congue, eu cursus sapien placerat. Duis facilisis, libero sed laoreet venenatis, diam sem volutpat sem, vitae congue massa enim non ex. Aenean blandit ullamcorper leo, quis auctor magna laoreet non. Integer blandit augue enim, ut faucibus justo finibus quis. Fusce mi nisl, ullamcorper eget nunc sed, malesuada maximus enim. Sed rutrum risus sed molestie fringilla. Aenean vehicula consectetur tellus, id aliquam nisl porta ac. Sed finibus, nisl ut pulvinar bibendum, dolor turpis fermentum nulla, id pharetra sem est vehicula velit. Nulla tristique quis nulla ac fermentum. Aliquam a arcu sit amet arcu ultrices feugiat sed vitae nunc. Maecenas interdum metus ullamcorper sapien faucibus, ut consequat erat lacinia.
 
 
-### <a name="files">Files</a>
+### <a name="files">Reading Files</a>
 
 
-### Databases
+### <a name="dbs">Querying Databases</a>
