@@ -3,12 +3,16 @@
 So, you have some data in a __file__ (e.g. `.csv`,`.xlsx`,`.dta`) and or in a __database__ somewhere.  This section will describe how you can __access the data__ based on where the data is stored.
 
 Here are links to the specific parts of this section:
+- <a href="#dfs">What is a Dataframe?</a>
 - <a href="#files">Reading Files</a>
 - <a href="#dbs">Querying Databases</a>
 
 
+### <a name="dfs">What is a Dataframe?</a>
 
-But first, let's talk about how the data
+But first, let's briefly talk about how the data structures.  When analyzing data, both Python and R use a structure called a __dataframe__.  Sounds fancy, yes, but really a dataframe is __just a special kind of table__ stored in memory.  Dataframes have columns and rows like a spreadsheet does.  The benefit of a dataframe is that you can manipulate these "tables" using code rather than having to build mammoth spreadsheets.
+
+*Key take away: Dataframe = Table*
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, nisi in mollis commodo, tellus purus commodo felis, eu rutrum lacus lorem in quam. Sed dictum nulla ipsum, eget suscipit sem varius eget. Cras mattis hendrerit erat sit amet ultrices. Integer ac ipsum eget eros sollicitudin dignissim in pellentesque nulla. In varius ante nec interdum fermentum. Pellentesque lacinia rhoncus sapien nec interdum. Ut dapibus, velit quis vestibulum imperdiet, dui elit fermentum erat, finibus aliquam augue mauris vitae mi. Aenean ullamcorper eros eget pulvinar vulputate. Phasellus fringilla mauris at fermentum malesuada.
 
