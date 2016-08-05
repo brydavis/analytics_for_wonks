@@ -21,6 +21,16 @@ The purpose of this repository is to provide reusable examples for basic data pr
 ###	Exporting
 - *Is there a way to export my data or a report to a `.xlsx` or `.csv` file?*
 
+
+Using the same technique as with intrapage linking, you can link from one document to a specific place in another document. This technique is useful when you're referencing a specific notation within text that might be on another page. T
+
+Using the same technique as with intrapage linking, you can link from one document to a specific place in another document. This technique is useful when you're referencing a specific notation within text that might be on another page. T
+
+Using the same technique as with intrapage linking, you can link from one document to a specific place in another document. This technique is useful when you're referencing a specific notation within text that might be on another page. T
+
+Using the same technique as with intrapage linking, you can link from one document to a specific place in another document. This technique is useful when you're referencing a specific notation within text that might be on another page. T
+
+
 <a name="end"></a>
 ### END
 
