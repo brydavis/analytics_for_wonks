@@ -17,13 +17,27 @@ But first, let's briefly talk about how the data structures.  When analyzing dat
 How do you access data stored in a file on a computer?  Both Python and R have ways to import most file formats (e.g. `.csv`,`.xlsx`,`.dta`) directly into a dataframe.  So, in most cases, this should reduce your code to just a couple lines.
 
 In the examples below, let's layout some basic assumptions. 
-- We will call our dataframe `df` 
+- We will assume to be working with client-level data, thus will call our dataframe `clients` 
 - `pandas` is a Python package required to mimic the dataframe structure native to R
 - Our fake file is located in folder `C:/my_project/data`
 
 #### Python
+```python
+import pandas as pd
 
+data = pd.read_csv("C:/Users/jsmith/my_data.csv")
+```
 #### R
+In R, you should use one of the `read` functions to import your data.  For example, if importing a `.csv` file, then you should use the `read.csv` function.
+```r
+clients <- read.csv("C:/my_project/data/clients.csv", header=TRUE, stringsAsFactors=FALSE)
+```
+
+For `.xlsx` files, use the `read...` function.
+
+
+For `.dta` files (via Stata), use the `read...` function.
+
 
 ### <a name="dbs"><u>Querying Databases</u></a>
-<p>This is a <u>parragraph</u>.</p>
+
