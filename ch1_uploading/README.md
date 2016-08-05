@@ -13,6 +13,8 @@ But first, let's briefly talk about how the data structures.  When analyzing dat
 
 *Key take away: Dataframe = Table*
 
+<hr>
+
 ### <a name="files"><u>Reading Files</u></a>
 How do you access data stored in a file on a computer?  Both Python and R have ways to import most file formats (e.g. `.csv`,`.xlsx`,`.dta`) directly into a dataframe.  So, in most cases, this should reduce your code to just a couple lines.
 
@@ -38,6 +40,7 @@ For `.xlsx` files, use the `read...` function.
 
 For `.dta` files (via Stata), use the `read...` function.
 
+<hr>
 
 ### <a name="dbs"><u>Querying Databases</u></a>
 
