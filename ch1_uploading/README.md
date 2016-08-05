@@ -21,8 +21,8 @@ In the examples below, let's layout some basic assumptions.
 - `pandas` is a Python package required to mimic the dataframe structure native to R
 - Our fake file is located in folder `C:/my_project/data`
 
-##### Python
+#### Python
 
-##### R
+#### R
 
 ### <a name="dbs">Querying Databases</a>
