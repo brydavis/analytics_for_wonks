@@ -1,4 +1,4 @@
-# Data Basics for Policy Wonks
+# Modern Analytics for Policy Wonks
 
 ![alt text](http://imgs.xkcd.com/comics/python.png "Python gives you wings!")
 
