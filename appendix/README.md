@@ -19,3 +19,5 @@ Here is some information not covered elsewhere in the repository.
 - [Python for Economists - Havard](http://scholar.harvard.edu/files/ambell/files/python_for_economists.pdf)
 - [Python for Political Scientists](http://mattdickenson.com/2013/05/06/python-for-political-scientists-spring-2013-recap/)
 - [Computational Statistics in Python](https://people.duke.edu/~ccc14/sta-663/index.html)
+- [Munging Data with Python](http://wavedatalab.github.io/datawithpython/munge.html)
+- [Pratical Business Python](http://pbpython.com/)
