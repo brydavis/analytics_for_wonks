@@ -21,3 +21,6 @@ Here is some information not covered elsewhere in the repository.
 - [Computational Statistics in Python](https://people.duke.edu/~ccc14/sta-663/index.html)
 - [Munging Data with Python](http://wavedatalab.github.io/datawithpython/munge.html)
 - [Pratical Business Python](http://pbpython.com/)
+  - [Overview of Python Visualizations](http://pbpython.com/visualization-tools-1.html)
+  - [Common Excel Tasks Demonstrated in Pandas](http://pbpython.com/excel-pandas-comp.html)
+  - [Pivot Tables using Pandas](http://pbpython.com/pandas-pivot-table-explained.html)
